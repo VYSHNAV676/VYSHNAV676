@@ -1,5 +1,5 @@
 - 👋 Hi, I’m VYSHNAV
-- 🌱 I’m currently Flutter developer
+- 🌱 I’m Flutter developer
 - 📫 How to reach me vyshnavkm66@gmail.com
 <!---
 VYSHNAV676/VYSHNAV676 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
